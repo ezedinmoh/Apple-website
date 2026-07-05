@@ -21,17 +21,20 @@ A modern, polished landing page built with React and Vite, inspired by the clean
 ## 🚀 Getting Started
 
 1. Clone the repository
+
    ```bash
    git clone https://github.com/ezedinmoh/Apple-website.git
    cd Apple-website
    ```
 
 2. Install dependencies
+
    ```bash
    pnpm install
    ```
 
 3. Start the development server
+
    ```bash
    pnpm dev
    ```

@@ -1,0 +1,21 @@
+.sixth-heghlight-wrapper {
+  display: flex;
+  justify-content: space-between;
+  background: #fff;
+}
+
+.sixth-heghlight-wrapper .left-side-wrapper {
+  background-image: url("../../images/home/macbook-pro.jpg");
+  background-size: initial;
+  background-color: #fafafa;
+  background-position: bottom;
+}
+
+.sixth-heghlight-wrapper .right-side-wrapper {
+  background-image: url("../../images/home/new-ipad.jpg");
+}
+
+.product-title-small {
+  font-weight: 700;
+  font-size: 45px;
+}

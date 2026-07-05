@@ -1,0 +1,38 @@
+.fifth-heghlight-wrapper {
+  display: flex;
+  justify-content: space-between;
+  background: #fff;
+}
+
+.fifth-heghlight-wrapper .left-side-wrapper {
+  background-image: url("../../images/home/apple-tv-background.jpg");
+}
+
+.fifth-heghlight-wrapper .right-side-wrapper {
+  background-image: url("../../images/home/air-pods.jpg");
+  color: #fff;
+  background-size: initial;
+  background-color: #000;
+  background-position: bottom;
+}
+
+.logo-wrapper {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.tvshow-logo-wraper {
+  padding: 180px 0 200px;
+}
+
+.watch-more-wrapper a {
+  text-decoration: none;
+  font-size: 0.85em;
+}
+
+.watch-more-wrapper a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 15px;
+}

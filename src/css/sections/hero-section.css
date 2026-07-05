@@ -1,0 +1,22 @@
+.main-highlight-wrapper {
+  background: #fafafa;
+  text-align: center;
+  padding: 25px 0;
+}
+
+.model {
+  font-size: 0.85em;
+}
+
+.product-title {
+  font-weight: 700;
+  font-size: 56px;
+}
+
+.brief-description {
+  font-size: 2em;
+}
+
+.main-image-wrapper {
+  margin-top: 20px;
+}
